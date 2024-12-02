@@ -7,7 +7,7 @@ The datasets used in this project contain synthetic data generated specifically 
 
 - Order Log Data: Contains information on customer orders, including order IDs, quantities, and purchase dates
 -	Stock Control Data: Contains inventory records, including item IDs, current stock levels, restocking schedules, and unit prices
--	Imported csv’s into Azure Data Studio to be queried with SQL
+-	Imported csv’s into MySQL Workbench to be queried with SQL
 
 
 
