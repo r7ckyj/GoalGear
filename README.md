@@ -7,8 +7,8 @@ The datasets used in this project contain synthetic data generated specifically 
 
 - Order Log Data: Contains information on customer orders, including order IDs, quantities, and purchase dates
 -	Stock Control Data: Contains inventory records, including item IDs, current stock levels, restocking schedules, and unit prices
--	Imported csv’s into MySQL Workbench to be queried with SQL
+-	Imported csv’s into MySQL Workbench to be queried
 
-
-
+## Analyzing Data with MySQl
+The MySQL queries I used to analyze the data (and generate the following visualizations) can be found [HERE](https://github.com/r7ckyj/GoalGear/blob/c3343146076e143f8f6f8d2c2cb51be2768583ac/GoalGearQs.sql)
 
